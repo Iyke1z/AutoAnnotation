@@ -1,2 +1,0 @@
-# AutoAnnotation
-Automated Annotation Pipeline
