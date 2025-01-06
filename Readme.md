@@ -1,4 +1,4 @@
-# This Automated Annotation Pipeline Repo is still under buildup.
+# The Automated Annotation Pipeline repository is currently under development and will be updated progressively to include additional features and refinements.
 
 # How-To Run:
 
