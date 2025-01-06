@@ -1,6 +1,6 @@
 # The Automated Annotation Pipeline repository is currently under development and will be updated progressively to include additional features and refinements.
 
-# How-To Run:
+## How-To Run:
 
 1. install requirements (tested with Python 3.8.10)
 2. setup dataset and models
