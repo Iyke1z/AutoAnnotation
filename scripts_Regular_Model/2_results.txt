@@ -1,0 +1,35 @@
+
+(venv) (base) lamda@UL2080344156294:~/ALM_24_09/ALM/L-CRP$ time bash scripts_Regular_Model/2_run_global_class_concepts.sh > scripts_Regular_Model/2_results.txt
+Scanning '/home/lamda/ALM_24_09/ALM/L-CRP/datasets/coco2017/coco/val/newval2017.cache' images and labels... 544 found, 0 missing, 0 empty, 1 corrupt: 100%|██████████| 544/544 [00:00<?, ?it/s]
+/home/lamda/venv/lib/python3.8/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ../aten/src/ATen/native/TensorShape.cpp:2228.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 31/31 [00:53<00:00,  1.72s/it]
+Scanning '/home/lamda/ALM_24_09/ALM/L-CRP/datasets/coco2017/coco/val/newval2017.cache' images and labels... 544 found, 0 missing, 0 empty, 1 corrupt: 100%|██████████| 544/544 [00:00<?, ?it/s]
+/home/lamda/venv/lib/python3.8/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ../aten/src/ATen/native/TensorShape.cpp:2228.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 26/26 [00:46<00:00,  1.77s/it]
+Scanning '/home/lamda/ALM_24_09/ALM/L-CRP/datasets/coco2017/coco/val/newval2017.cache' images and labels... 544 found, 0 missing, 0 empty, 1 corrupt: 100%|██████████| 544/544 [00:00<?, ?it/s]
+/home/lamda/venv/lib/python3.8/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ../aten/src/ATen/native/TensorShape.cpp:2228.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 25/25 [00:43<00:00,  1.75s/it]
+Scanning '/home/lamda/ALM_24_09/ALM/L-CRP/datasets/coco2017/coco/val/newval2017.cache' images and labels... 544 found, 0 missing, 0 empty, 1 corrupt: 100%|██████████| 544/544 [00:00<?, ?it/s]
+/home/lamda/venv/lib/python3.8/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ../aten/src/ATen/native/TensorShape.cpp:2228.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 64/64 [01:56<00:00,  1.82s/it]
+Scanning '/home/lamda/ALM_24_09/ALM/L-CRP/datasets/coco2017/coco/val/newval2017.cache' images and labels... 544 found, 0 missing, 0 empty, 1 corrupt: 100%|██████████| 544/544 [00:00<?, ?it/s]
+/home/lamda/venv/lib/python3.8/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ../aten/src/ATen/native/TensorShape.cpp:2228.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 28/28 [00:50<00:00,  1.82s/it]
+Scanning '/home/lamda/ALM_24_09/ALM/L-CRP/datasets/coco2017/coco/val/newval2017.cache' images and labels... 544 found, 0 missing, 0 empty, 1 corrupt: 100%|██████████| 544/544 [00:00<?, ?it/s]
+/home/lamda/venv/lib/python3.8/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ../aten/src/ATen/native/TensorShape.cpp:2228.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 28/28 [00:49<00:00,  1.77s/it]
+Scanning '/home/lamda/ALM_24_09/ALM/L-CRP/datasets/coco2017/coco/val/newval2017.cache' images and labels... 544 found, 0 missing, 0 empty, 1 corrupt: 100%|██████████| 544/544 [00:00<?, ?it/s]
+/home/lamda/venv/lib/python3.8/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ../aten/src/ATen/native/TensorShape.cpp:2228.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 41/41 [01:14<00:00,  1.82s/it]
+
+real    8m54.097s
+user    20m22.598s
+sys     1m19.693s
+
