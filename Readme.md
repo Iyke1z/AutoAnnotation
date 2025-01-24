@@ -33,5 +33,5 @@ pip install -r requirements.txt
       * To analyse model with CBAM attention : scripts_Attention_Model/**.sh
       * To analyse model with auto annotation : scripts_Auto_Annotation/**.sh
 
-** Download datasets.zip and unzip it too L-CRP_final/experiments/ here.
+** Download datasets.zip and unzip it too AAnno_Final/experiments/ here.
    
