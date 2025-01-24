@@ -30,7 +30,7 @@ pip install -r requirements.txt
       
    4. Analysis Scripts location (script_location) are following. each directory has their own scripts and running them will give analysis results.:    
       * To analyse Regular Model : scripts_Regular_Model/**.sh
-      * To analyse model with CBAM attention : scripts_Attenntion_Model/**.sh
+      * To analyse model with CBAM attention : scripts_Attention_Model/**.sh
       * To analyse model with auto annotation : scripts_Auto_Annotation/**.sh
 
 ** Download datasets.zip and unzip it too L-CRP_final/experiments/ here.
