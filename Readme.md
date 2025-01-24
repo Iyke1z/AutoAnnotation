@@ -1,9 +1,9 @@
 # The Automated Annotation Pipeline repository is currently under development and will be updated progressively to include additional features and refinements.
 
-## Create your own VirtualEnv environemnt using:
+## Create your own VirtualEnv Environemnt
 python3 -m venv myenv
 
-## Activate VirtualEnv by
+## Activate VirtualEnv
 source myenv/bin/activate
 
 ## Install requirements 
